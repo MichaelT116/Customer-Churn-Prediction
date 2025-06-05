@@ -1,1 +1,1 @@
-# Customer-Churn-Prediction
+# Titanic Survival Prediction
